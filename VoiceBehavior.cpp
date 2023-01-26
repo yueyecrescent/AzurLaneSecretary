@@ -1,7 +1,8 @@
 #include "VoiceBehavior.hpp"
-#include "../AMEIZ-3-1706/anm2dr/util/Utils.hpp"
-#include "../AMEIZ-3-1706/anm2dr/util/ArrayList.hpp"
-#include "../AMEIZ-3-1706/engine/io/KeyValueParser.hpp"
+#include <AMEIZ-3-1706/anm2dr/util/Utils.hpp>
+#include <AMEIZ-3-1706/anm2dr/util/ArrayList.hpp>
+#include <AMEIZ-3-1706/engine/io/ValueUtils.hpp>
+#include <AMEIZ-3-1706/engine/io/KeyValueParser.hpp>
 #include <math.h>
 
 using namespace als;
